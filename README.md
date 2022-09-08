@@ -5,7 +5,7 @@ Self-Hosted Open-Source Discord Bot to onboard & protect community members. It g
 1. Clone using:
 
 ```bash
-git clone https://github.com/Accretence/pardis
+git clone https://github.com/Accretence/andia
 ```
 
 2. Install dependencies:

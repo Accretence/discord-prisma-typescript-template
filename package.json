@@ -1,8 +1,8 @@
 {
-    "name": "pardis",
+    "name": "andia",
     "description": "Self-Hosted Open-Source Discord Bot to onboard & protect community members. It gamifies user entertainment & engagement.",
     "author": "@accretence",
-    "repository": "git@github.com:accretence/pardis.git",
+    "repository": "git@github.com:accretence/andia.git",
     "license": "MIT",
     "version": "0.1.0",
     "keywords": [],
