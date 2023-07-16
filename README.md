@@ -3,7 +3,7 @@
 1. Clone using:
 
 ```bash
-git clone https://github.com/Accretence/andia
+git clone https://github.com/Accretence/Discord-Prisma-Typescript-Template
 ```
 
 2. Install dependencies:
